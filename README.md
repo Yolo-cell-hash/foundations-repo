@@ -18,3 +18,6 @@
 
   ## Important
   Making a PR is a **must** to contribute in the project.
+
+  ---
+  All contributions are subject to change based on requirements of the projects.
