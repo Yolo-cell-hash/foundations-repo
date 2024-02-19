@@ -1,7 +1,7 @@
 # README Markdown
 
 ### List
-- [Code](https://github.com/Yolo-cell-hash/foundations-repo/blob/main/README.md#code)
+- [Code](#important)
 - itme2
 - item3
 
